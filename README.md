@@ -1,5 +1,5 @@
 1. 	◦	https://www.w3schools.com/js/js_array_methods.asp
-JAVASCRIPT ARRAY METHOD 
+__JAVASCRIPT ARRAY METHOD__ 
 JavaScript array methods facilitate efficient array manipulation. `length` retrieves array size. `toString()` converts array elements to a comma-separated string. `pop()` removes the last element, and `push()` adds to the end. `shift()` removes the first element, while `unshift()` adds to the beginning. `join()` creates a string with a specified separator. `delete` removes elements, though `pop()` or `shift()` is preferred. `concat()` merges arrays without modifying originals. `flat()` reduces nested array dimensions. `splice()` adds, removes, or replaces elements. `slice()` extracts a section without altering the original array. Implicitly, arrays convert to strings for output.
 
         1. Array length:
@@ -112,9 +112,9 @@ These methods provide a variety of ways to manipulate and work with arrays in Ja
 2. 	◦	https://www.w3schools.com/js/js_functions.asp
 
 
-JAVASCRIPT FUNCTIONS
+__JAVASCRIPT FUNCTIONS__
 
-JavaScript Functions Summary:
+__JavaScript Functions Summary:__
 
 JavaScript functions are blocks of code designed to do specific tasks. You define them using the `function` keyword, give them a name, and provide a set of instructions inside curly brackets. Functions are like mini-programs, executed when called or invoked. They can take inputs (parameters) and produce outputs (return values). Functions promote code reuse and flexibility, allowing the same code to be used with different data. Invoked by events or code, they encapsulate tasks for clarity. Local variables inside functions are only accessible within that function. Overall, functions enhance code organization, readability, and maintainability in JavaScript programming.
 
@@ -195,9 +195,9 @@ use cases, and local variables.
 
 3. 	◦	https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions
  
- FUNCTIONS
+ __FUNCTIONS__
 
-JavaScript Functions:
+__JavaScript Functions:__
 
 JavaScript functions are reusable code blocks executed when called. They come in various types: regular, generator, async, and more. Functions can be declared, expressed, or constructed. Parameters, including default and rest, enhance flexibility. Functions return values, and scope rules apply. Arrow functions offer concise syntax. Avoid using the `Function` constructor due to security risks. Best practices include preferring function expressions and caution with block-level functions. Understanding function types, declarations, expressions, and usage is fundamental for modular, reusable, and maintainable JavaScript code.
 
@@ -284,7 +284,7 @@ Understanding JavaScript functions is fundamental for effective coding, providin
 
 4. ◦	https://www.javascripthelp.org/learn/basics/control-flow-statements/
 
-CONTROL FLOW STATEMENTS IN JAVASCRIPT
+__CONTROL FLOW STATEMENTS IN JAVASCRIPT__
 
     JavaScript's control flow statements, including if/else, switch, and loops, are fundamental for directing program execution based on conditions. If/else statements execute code blocks conditionally, while switch statements perform actions based on variable values. For loops iterate a specific number of times, and while loops execute code while a condition holds true. They provide powerful tools for creating dynamic, interactive web applications. Examples illustrate their practical use, such as prompting users to guess a secret number or offering free articles in a subscription-based service. Understanding these control flow mechanisms is essential for effective JavaScript programming.
 
@@ -307,9 +307,9 @@ CONTROL FLOW STATEMENTS IN JAVASCRIPT
 5. https://javascript.info/function-basics
 
 
-FUNCTIONS IN JAVASCRIPT
+__FUNCTIONS IN JAVASCRIPT__
 
-FUNCTION DECLARATION:
+__FUNCTION DECLARATION:__
 Functions in JavaScript are essential for code organization and reusability. A function declaration comprises the function keyword, a name, parameters, and a body. Local variables exist only within functions, while functions can access and modify outer variables. Global variables are accessible from any function. Parameters allow data to be passed to functions, and default values provide flexibility. Functions can return values using the return statement. Naming conventions, such as verbal prefixes, enhance code clarity. Functions should have one clear purpose, promoting readability. Understanding local and global scope, parameters, defaults, and returns is fundamental for effective JavaScript programming.
 
 Functions are fundamental in programming, preventing code repetition. 
