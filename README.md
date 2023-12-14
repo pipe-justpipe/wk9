@@ -272,3 +272,26 @@ const calculator = {
 ```
 
 Understanding JavaScript functions is fundamental for effective coding, providing modularity, reusability, and maintainability. Functions are versatile, enabling a variety of coding styles and patterns.
+
+
+4. ◦	https://www.javascripthelp.org/learn/basics/control-flow-statements/
+
+Control Flow Statements in JavaScript
+
+1. If/Else Statements
+
+It is sed to execute code blocks based on true or false conditions. The if...else statement allows alternative code execution if the condition is false.
+
+2. Switch Statements
+
+Execute code based on the value of a variable or expression. Cases match variable values, with a default option for no matches.
+
+3. Loops
+
+Used to repeat code based on a condition. 
+Two main types: 
+for loops, iterating over a range, and while loops, repeating while a condition is true.
+Do...While Loops is Similar to while loops but always execute the code block at least once before evaluating the condition.
+
+JavaScript's control flow statements, including if/else, switch, and loops, are fundamental for directing program execution based on conditions. If/else statements execute code blocks conditionally, while switch statements perform actions based on variable values. For loops iterate a specific number of times, and while loops execute code while a condition holds true. They provide powerful tools for creating dynamic, interactive web applications. Examples illustrate their practical use, such as prompting users to guess a secret number or offering free articles in a subscription-based service. Understanding these control flow mechanisms is essential for effective JavaScript programming.
+
